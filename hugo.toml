@@ -1,0 +1,48 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'A-Ali'
+copyright = "© Ayaan Ali "
+theme = 'archie'
+[params]
+	mode="toggle" # color-mode → light,dark,toggle or auto
+  	description = """
+		<div style='display: flex; align-items: center;'>
+  		<img src='https://i.imgur.com/FlSyTjSm.jpg' alt='Image Description' style='width:150px; height:100px; margin-right: 20px;'>
+  		<p>Your text goes here</p>
+		</div>
+		"""
+
+[[params.social]]
+name = "Linkedin"
+icon = "linkedin"
+url = "https://linkedin.com/in/a-ayaan"
+
+[[params.social]]
+name = "GitHub"
+icon = "github"
+url = "https://github.com/ayaanali-z"
+
+[[params.social]]
+name = "Twitter"
+icon = "twitter"
+url = "https://twitter.com/__ayaanali/"
+
+[[params.social]]
+name = "Instagram"
+icon = "instagram"
+url = "https://instagram.com/__ayaanali"
+
+[[menu.main]]
+name = "[contact]" 
+url = "/contact"
+weight = 1
+
+[[menu.main]] 
+name = "[linkedin]"
+url = "https://linkedin.com/in/a-ayaan"
+weight = 2 
+
+[[menu.main]] 
+name = "[blog]" 
+url = "/posts" 
+weight = 3
