@@ -32,4 +32,4 @@ Generally, I aim to be concise. Why express something with four words when you o
 
 # The motivation behind this site 
 
-This site came as a culimination of my desire to create a personal portfolio website and a blog for my random opinions. I was partly inspired by [Paul Graham](paulgraham.com), computer scientist, essayist, and co-founder of Y Combinator. This is my potentially lackluster attempt at essayism.
+This site came as a culimination of my desire to create a personal portfolio website and a blog for my random opinions. I was partly inspired by [Paul Graham](http://www.paulgraham.com/articles.html), computer scientist, essayist, and co-founder of Y Combinator. This is my potentially lackluster attempt at essayism.
