@@ -1,11 +1,6 @@
 ---
 title: "Homepage"
 ---
-<div style="display: flex; align-items: center;">
-   <img src="https://i.imgur.com/FlSyTjSm.jpg" alt="Image Description" style="width:150px; height:100px; margin-right: 20px;">
-   <p>Your text goes here</p>
-</div>
-
 Hi! My name is Ayaan Ali, and I am a B.A. candidate in mathematics and computer science at [Columbia University](https://www.cs.columbia.edu/ "Department Website"). I grew up in Brooklyn, NY and chose to stay in the city for higher education. Academically, I'm mainly interested in the theory of computation, computational learning theory, and pure mathematics. Eventually, I hope to pursue a PhD in CS and conduct research full time. In my free time, I postulate a lot about media and film as well as data analysis and visualization. Below are some of my random opinions. 
 
 # Vim Enthusiast 
