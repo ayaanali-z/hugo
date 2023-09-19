@@ -32,17 +32,21 @@ name = "Instagram"
 icon = "instagram"
 url = "https://instagram.com/__ayaanali"
 
+[[menu.main]] 
+name = "[who am i?]" 
+url = "/posts/profile" 
+weight = 1
 [[menu.main]]
 name = "[contact]" 
 url = "/contact"
-weight = 1
+weight = 2
 
 [[menu.main]] 
 name = "[linkedin]"
 url = "https://linkedin.com/in/a-ayaan"
-weight = 2 
+weight = 3
 
 [[menu.main]] 
 name = "[blog]" 
 url = "/posts" 
-weight = 3
+weight = 4
