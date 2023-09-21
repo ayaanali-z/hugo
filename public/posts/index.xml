@@ -2,37 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Homepage on A-Ali</title>
-    <link>https://example.org/posts/</link>
+    <link>https://ayaan.wiki/posts/</link>
     <description>Recent content in Homepage on A-Ali</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Ayaan Ali </copyright>
-    <lastBuildDate>Tue, 19 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 19 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://ayaan.wiki/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>On the use of LaTeX</title>
-      <link>https://example.org/posts/latex/</link>
+      <title>How to take notes if you&#39;re lazy</title>
+      <link>https://ayaan.wiki/posts/notebook/</link>
       <pubDate>Tue, 19 Sep 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/posts/latex/</guid>
+      <guid>https://ayaan.wiki/posts/notebook/</guid>
+      <description>In high school, my notetaking system was all over the place. For some classes, I had detailed, comprehensive, and organized notes and flashcards that legitimately helped me with preparing for tests and quizzes. On the flipside, I had courses where I barely wrote two incoherent lines on a single page. Why was that?
+It took me a long time to figure out that my notetaking system was highly dependent on how the instructor or teacher presented information.</description>
+    </item>
+    
+    <item>
+      <title>On the use of LaTeX</title>
+      <link>https://ayaan.wiki/posts/latex/</link>
+      <pubDate>Tue, 19 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://ayaan.wiki/posts/latex/</guid>
       <description>What is LaTeX? LaTeX is a typesetting and document preparation system that provides a similar function to word processors like Google Docs or Microsoft Word. However, LaTeX differs from these applications in that the user writes in plain text.
 Corollary: What is plain text? Plain text is text that contains only characters and spaces without any stylistic or structural formatting already compiled on the page. To put it bluntly, you&amp;rsquo;re essentially coding a google document.</description>
     </item>
     
     <item>
       <title>Building this site</title>
-      <link>https://example.org/posts/intro/</link>
+      <link>https://ayaan.wiki/posts/intro/</link>
       <pubDate>Mon, 18 Sep 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/posts/intro/</guid>
-      <description>Hugo for Static Sites It took me several tries at learning React, JS, and WebGL before I landed on hugo. I realized all of those tools were insanely overkill for what I was trying to accomplish: a portfolio site for someone who does not care for front-end development. Hugo is basically Wix but for back-end programmers. I coded the entire site from my Mac terminal and launched it on GitHub pages.</description>
+      <guid>https://ayaan.wiki/posts/intro/</guid>
+      <description>I developed this site using a tool called Hugo which is a static site generator written in the programming language Go. I am not skilled at front-end development in any way but also did not want to just use a random template and host on Wix or Squarespace. I used Hugo for a few reasons:
+Speed: this is a blazing fast site. Near instantaneous transitions between pages. Free and Open-Source: goes without saying why this is a plus.</description>
     </item>
     
     <item>
       <title>Who am I?</title>
-      <link>https://example.org/posts/profile/</link>
+      <link>https://ayaan.wiki/posts/profile/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/posts/profile/</guid>
+      <guid>https://ayaan.wiki/posts/profile/</guid>
       <description>Hi! My name is Ayaan Ali, and I am a B.A. candidate in mathematics and computer science at Columbia University. I grew up in Brooklyn, NY and chose to stay in the city for higher education. Academically, I&amp;rsquo;m mainly interested in the theory of computation, computational learning theory, and pure mathematics. Eventually, I hope to pursue a PhD in CS and conduct research full time. In my free time, I postulate a lot about media and film as well as data analysis and visualization.</description>
     </item>
     

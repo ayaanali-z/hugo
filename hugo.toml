@@ -7,7 +7,7 @@ paginate=3
 
 [params]
 	mode="toggle" # color-mode → light,dark,toggle or auto
-	subtitle = "Hi, my name is Ayaan. Welcome to my webpage! I write poorly worded essays on random topics about technology, academics, and mathematics. Feel free to send me an email on any inquiry!" 
+	subtitle = "Hi, my name is Ayaan. Welcome to my webpage! I write poorly worded essays on random topics about technology, academics, and mathematics. Feel free to send me an [email](mailto:aa4688@columbia.edu) on any inquiry!!" 
 [[params.social]]
 name = "Linkedin"
 icon = "linkedin"

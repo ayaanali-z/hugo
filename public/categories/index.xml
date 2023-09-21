@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on A-Ali</title>
-    <link>https://example.org/categories/</link>
+    <link>https://ayaan.wiki/categories/</link>
     <description>Recent content in Categories on A-Ali</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>© Ayaan Ali </copyright><atom:link href="https://example.org/categories/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© Ayaan Ali </copyright><atom:link href="https://ayaan.wiki/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

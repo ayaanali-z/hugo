@@ -2,25 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.org/</loc>
+    <loc>https://ayaan.wiki/</loc>
     <lastmod>2023-09-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/</loc>
+    <loc>https://ayaan.wiki/posts/</loc>
     <lastmod>2023-09-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/latex/</loc>
+    <loc>https://ayaan.wiki/posts/notebook/</loc>
     <lastmod>2023-09-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/intro/</loc>
+    <loc>https://ayaan.wiki/posts/latex/</loc>
+    <lastmod>2023-09-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ayaan.wiki/posts/intro/</loc>
     <lastmod>2023-09-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/contact/</loc>
+    <loc>https://ayaan.wiki/contact/</loc>
     <lastmod>2023-09-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/categories/</loc>
+    <loc>https://ayaan.wiki/categories/</loc>
   </url><url>
-    <loc>https://example.org/tags/</loc>
+    <loc>https://ayaan.wiki/tags/</loc>
   </url><url>
-    <loc>https://example.org/posts/profile/</loc>
+    <loc>https://ayaan.wiki/posts/profile/</loc>
   </url>
 </urlset>
